@@ -1,3 +1,3 @@
 # repo2
 Hi this is regarding merge conflict
-second repo
+And also we are discussing how to resolve this conflict.
